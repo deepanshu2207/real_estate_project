@@ -41,6 +41,9 @@ def load_saved_artifacts():
 def get_data_columns():
     return __data_columns
 
+def get_location_names():
+    return __locations
+
 if __name__ == '__main__':
     load_saved_artifacts()
     # print(get_estimated_price('1st Phase JP Nagar',1000, 3, 3))
