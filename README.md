@@ -1,1 +1,1 @@
-This is a price prediction project for houses in bangaluru.
+This is a price prediction project for houses in bengaluru.
